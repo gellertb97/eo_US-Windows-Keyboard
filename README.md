@@ -1,6 +1,8 @@
 # eo_US-Windows-Keyboard
 <h3>Esperanto (United States/Canada) / ŜĜERTŬ Layout Keyboard for Windows</h3>
 
+<h6>To install, goto the install directory, and follow posted instructions</h6>
+
 <p>
 Hello world!
 This lovely evening during my internet surfs, I discovered the beauty that is the Esperanto language. I'm a Canadian with Eastern European roots (bilingual), and given my appreciation for language I decided to explore it. I discovered that there is no standardized keyboard for this language that I can find, and in the realm of the Microsoft universe, users are left to their own devices if they wish to type with the Esperanto alphabet.
