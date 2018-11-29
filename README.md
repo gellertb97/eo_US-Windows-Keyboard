@@ -31,7 +31,7 @@ The src directory contains the klc file which can be opened using the layout edi
 </p>
 <br>
 <p align="center">
-  <h4>Shift +Ctrl+Alt Pressed</h4>
+  <h4>Shift+Ctrl+Alt Pressed</h4>
   <p>Shift+AltGr (Right-Alt) Pressed also triggers the same keys</p>
   <img src="https://raw.githubusercontent.com/gellertb97/eo_US-Windows-Keyboard/master/res/eo_USShftAltGr.jpg">
 </p>
