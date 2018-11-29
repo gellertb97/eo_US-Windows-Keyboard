@@ -14,3 +14,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=22339
 The src directory contains the klc file which can be opened using the layout editor; feel free to modify it to your heart's content, just change the Copyright and Company fields under Project > Properties. This project is MIT licensed, so go nuts.
 </p>
 
+<p align="center">
+  <h4>Normal Layout</h4>
+  <img src="https://raw.githubusercontent.com/gellertb97/eo_US-Windows-Keyboard/master/res/eo_US.jpg">
+</p>
