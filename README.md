@@ -3,7 +3,7 @@
 
 <p>
 Hello world!
-This lovely evening I discovered during my internet surfs, I discovered the beauty that is the Esperanto language. I'm a Canadian with Eastern European roots (bilingual), and given my appreciation for language I decided to explore it. I discovered that there is no standardized keyboard for this language that I can find, and in the realm of the Microsoft universe, users are left to their own devices if they wish to type with the Esperanto alphabet.
+This lovely evening during my internet surfs, I discovered the beauty that is the Esperanto language. I'm a Canadian with Eastern European roots (bilingual), and given my appreciation for language I decided to explore it. I discovered that there is no standardized keyboard for this language that I can find, and in the realm of the Microsoft universe, users are left to their own devices if they wish to type with the Esperanto alphabet.
 
 Being an IT guy that likes helping people, especially when the solution is quite rapidly acheivable, I spent 30 minutes comparing the Esperanto alphabet to the English alphabet and the en_US keyboard layout, and worked out the keyboard layout shown below.
 
