@@ -18,3 +18,19 @@ The src directory contains the klc file which can be opened using the layout edi
   <h4>Normal Layout</h4>
   <img src="https://raw.githubusercontent.com/gellertb97/eo_US-Windows-Keyboard/master/res/eo_US.jpg">
 </p>
+<br>
+<p align="center">
+  <h4>Shift Key Pressed</h4>
+  <img src="https://raw.githubusercontent.com/gellertb97/eo_US-Windows-Keyboard/master/res/eo_USShft.jpg">
+</p>
+<br>
+<p align="center">
+  <h4>Ctrl+Alt Pressed</h4>
+  <p>AltGr (Right-Alt) Pressed also triggers the same keys</p>
+  <img src="https://raw.githubusercontent.com/gellertb97/eo_US-Windows-Keyboard/master/res/eo_USShftAltGr.jpg">
+</p>
+<br>
+<p align="center">
+  <h4>Caps-Lock On</h4>
+  <img src="https://raw.githubusercontent.com/gellertb97/eo_US-Windows-Keyboard/master/res/eo_USCaps.jpg">
+</p>
