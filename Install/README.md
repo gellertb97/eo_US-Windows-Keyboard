@@ -6,3 +6,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/gellertb97/eo_US-Windows-Keyboard/master/res/W10_Settings_eo.png" width=500>
 </p>
+
+<br>
+<br>
+<h3>Dankon kaj ĝuu!</h3>
